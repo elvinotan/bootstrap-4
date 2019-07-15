@@ -70,4 +70,6 @@ kalo ukurannya kecil dia akan berubah jadi tab menu, dan akan expanse bila ukura
 ![Navbar Responsive](https://github.com/elvinotan/bootstrap-4/blob/master/images/navresponsive.png) 
 # Bootstrap 4 Tutorial #12 - Tooltips
 ```
+Cara membuat Tooltips
 ```
+![Tooltip](https://github.com/elvinotan/bootstrap-4/blob/master/images/tooltip.png) 
