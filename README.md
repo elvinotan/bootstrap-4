@@ -40,7 +40,9 @@ Flex juga memungkinkan untuk ganti posisi column, serta adjustment alignment
 ![Flex](https://github.com/elvinotan/bootstrap-4/blob/master/images/flex.png) 
 # Bootstrap 4 Tutorial #7 - Jumbotrons
 ```
+    Cara menggunakan jumbotron tidak lebih beda dari yang dari bootstrap 3
 ```
+![Flex](https://github.com/elvinotan/bootstrap-4/blob/master/images/jumbo.png) 
 # Bootstrap 4 Tutorial #8 - Utilities and Typography
 ```
 ```
