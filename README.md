@@ -52,7 +52,9 @@ Mohon cari linknya, pada tahap ini tidak akan di bahas satu demi satu.
 ```
 # Bootstrap 4 Tutorial #9 - Cards
 ```
+Cara menggunakan Card dan stylenya
 ```
+![Card](https://github.com/elvinotan/bootstrap-4/blob/master/images/card.png) 
 # Bootstrap 4 Tutorial #10 - Bootstrap Navs
 ```
 ```
