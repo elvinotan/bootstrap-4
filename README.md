@@ -57,7 +57,11 @@ Cara menggunakan Card dan stylenya
 ![Card](https://github.com/elvinotan/bootstrap-4/blob/master/images/card.png) 
 # Bootstrap 4 Tutorial #10 - Bootstrap Navs
 ```
+py-5 = Padding Vertical dgn nilai 5
+mx-5 = Margin Horizontal dgn nilai 5
+Pelanjari classnya untuk membuat nav
 ```
+![Nav](https://github.com/elvinotan/bootstrap-4/blob/master/images/nav.png) 
 # Bootstrap 4 Tutorial #11 - Responsive Navbars
 ```
 ```
