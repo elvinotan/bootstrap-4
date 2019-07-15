@@ -1,8 +1,9 @@
 # Bootstrap-4
 
 # Bootstrap 4 Tutorial #1 - Introduction
-```
-```
+![Intro 1](https://github.com/elvinotan/vuejs2/blob/master/images/intro1.png) 
+![Intro 2](https://github.com/elvinotan/vuejs2/blob/master/images/intro2.png) 
+![Intro 3](https://github.com/elvinotan/vuejs2/blob/master/images/intro3.png) 
 # Bootstrap 4 Tutorial #2 - Installing Bootstrap 4
 ```
 ```
