@@ -20,7 +20,10 @@ Bila kita membuat tag html dan render, tanpa menggunakan css sama sekali, tampil
 
 # Bootstrap 4 Tutorial #5 - Grid Basics
 ```
+Yang baru dari belajar grid bila kita tidak spesifikasi devicenya maka di anggap untuk semua screen
+col-3 => maka di semua screen di anggap tiga
 ```
+![Grid](https://github.com/elvinotan/bootstrap-4/blob/master/images/grid.png) 
 # Bootstrap 4 Tutorial #6 - Flex Grid
 ```
 ```
