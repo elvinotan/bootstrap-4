@@ -36,6 +36,7 @@ contoh :
 </div>
 Pada contoh di atas flex akan otomasi mengalikasinya masing-masing 4
 Flex juga memungkinkan untuk ganti posisi column, serta adjustment alignment
+PENTING !!! pelajari lebih lagi untuk bab ini, bagus untuk rekomposisi tampilan
 ```
 ![Flex](https://github.com/elvinotan/bootstrap-4/blob/master/images/flex.png) 
 # Bootstrap 4 Tutorial #7 - Jumbotrons
@@ -45,6 +46,9 @@ Flex juga memungkinkan untuk ganti posisi column, serta adjustment alignment
 ![Flex](https://github.com/elvinotan/bootstrap-4/blob/master/images/jumbo.png) 
 # Bootstrap 4 Tutorial #8 - Utilities and Typography
 ```
+Utilities dan Typography adalah class yang di berikan oleh Bootsrap untuk kepentingan tampilan.
+Didalam Utilities dan Typeography juga di bagai menjadi beberapa section yang cukup banyak.
+Mohon cari linknya, pada tahap ini tidak akan di bahas satu demi satu.
 ```
 # Bootstrap 4 Tutorial #9 - Cards
 ```
