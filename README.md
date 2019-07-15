@@ -64,7 +64,10 @@ Pelanjari classnya untuk membuat nav
 ![Nav](https://github.com/elvinotan/bootstrap-4/blob/master/images/nav.png) 
 # Bootstrap 4 Tutorial #11 - Responsive Navbars
 ```
+Di bawah kita membuat suatu navbar di bagian atas page, dimana nav bersifat responseive, 
+kalo ukurannya kecil dia akan berubah jadi tab menu, dan akan expanse bila ukuran size menjadi besar
 ```
+![Navbar Responsive](https://github.com/elvinotan/bootstrap-4/blob/master/images/navresponsive.png) 
 # Bootstrap 4 Tutorial #12 - Tooltips
 ```
 ```
