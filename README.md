@@ -4,11 +4,14 @@
 ![Intro 1](https://github.com/elvinotan/vuejs2/blob/master/images/intro1.png) 
 ![Intro 2](https://github.com/elvinotan/vuejs2/blob/master/images/intro2.png) 
 ![Intro 3](https://github.com/elvinotan/vuejs2/blob/master/images/intro3.png) 
+
 # Bootstrap 4 Tutorial #2 - Installing Bootstrap 4
 ```
+Untuk Install bisa menggunakan download manual, maupun bisa gunakan CDN
 ```
 # Bootstrap 4 Tutorial #3 - Bootstrap Reboot
 ```
+Bila kita membuat tag html dan render, tanpa menggunakan css sama sekali, tampilan di beberapa browser tidak sama atau inkonsisten, disinilah peran dari Bootstrap Reboot yang menyelaraskan tampilan 
 ```
 # Bootstrap 4 Tutorial #4 - Containers
 ```
